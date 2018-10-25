@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540511257 source:c:\users\gn439816\desktop\word counter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
